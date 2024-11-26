@@ -17,7 +17,7 @@ A port of the first level from DOOM into webfishing
  ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Extra%20room%20showcase.gif)
 
 - You can also get in the green areas, if you want to get out you can use the bounce mushrooms in each of them:
- ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20water%20showcase.gif)
+![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20water%20showcase.gif)
 
 - You can use the light house to get out of the map, where you will find bounce mushrooms to help you get around:
  ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20bounds%20showcase.gif)
