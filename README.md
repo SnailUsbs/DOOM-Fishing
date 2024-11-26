@@ -27,9 +27,15 @@ A port of the first level from DOOM into webfishing
 
 - The map's model was oringally made by pancakesbassoondonut on sketchfab: https://sketchfab.com/3d-models/doom-e1m1-hangar-map-2148fb6a3fe7454b901fcea67d70b318
 
+# LINKS:
+
+- Thunderstore page: https://thunderstore.io/c/webfishing/p/SnailUSB/DOOMFishing/
+
 # Snail's stuff
 
-- If you find a bug with one of my mods, have suggestions for them, or just want keep up to date with any updates or new mods I put out then you can check out my discord server or twitter below
+- If you want to support me check out one of my socials below
+
+- If you need to suggest a bug with this map, suggest an idea for it, or give me an idea for a new mod, then you can do that in my discord server below
 
 > **Discord server:** https://discord.gg/4au4uGGzx4
 
