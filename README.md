@@ -8,11 +8,11 @@ A port of the first level from DOOM into webfishing
 
 - The middle of the map is where you can find all 3 cabins, the quest board, light house, bait shop
 
-- ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Main%20Area.png)
+ ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Main%20Area.png)
 
 - You are able to fish in the green areas, which can be found in the middle of the map:
 
-- ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Fishing%20showcase.gif)
+ ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Fishing%20showcase.gif)
 
 - And another one towards the end of the map:
 
@@ -20,10 +20,10 @@ A port of the first level from DOOM into webfishing
 
 - You can also get in the green areas, if you want to get out you can use the bounce mushrooms in each of them:
 
-- ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20water%20showcase.gif)
+ ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20water%20showcase.gif)
 
 - You can use the light house to get out of the map, where you will find bounce mushrooms to help you get around:
-- ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20bounds%20showcase.gif)
+ ![](https://github.com/SnailUsbs/DOOM-Fishing/blob/main/Showcase%20gifs%20%26%20images/Out%20of%20bounds%20showcase.gif)
 
 # IMPORTANT INFO
 
